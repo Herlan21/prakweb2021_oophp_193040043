@@ -1,5 +1,6 @@
 <?php
-class Coba {
+class 
+    Coba {
     public $a; //property
     public function b(){ //method
     }
