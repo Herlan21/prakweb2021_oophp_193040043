@@ -9,7 +9,6 @@ class Produk{
                 return "$this->penulis, $this->penerbit";
             }
 }
-
 // $produk1 = new Produk();
 // $produk1->judul = "Naruto";
 // var_dump($produk1);
